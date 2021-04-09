@@ -3,7 +3,7 @@
 mkdir -p ~/.github
 echo "aws-bootstrap2" > ~/.github/aws-bootstrap-repo
 echo "marcus9211" > ~/.github/aws-bootstrap-owner
-echo "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" > ~/.github/aws-bootstrap-access-token
+echo "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" > ~/.github/aws-bootstrap-access-token
 
 STACK_NAME=awsbootstrap
 REGION=us-east-1 
