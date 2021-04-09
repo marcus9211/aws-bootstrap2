@@ -1,0 +1,4 @@
+mkdir -p ~/.github
+echo "was -bootstrap" > ~/.github/aws-bootstrap-repo
+echo "marcu 9211" > ~/.github/aws-bootstrap-owner
+Echo "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" > ~/.github/aws-access-token
